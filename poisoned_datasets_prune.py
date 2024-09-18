@@ -1,5 +1,6 @@
 # General structure from https://github.com/pytorch/examples/blob/master/mnist/main.py
 # Code edited from https://github.com/allenai/hidden-networks
+# Simple implementation of pruning + poisoned MNIST dataset
 from __future__ import print_function
 import argparse
 import os
