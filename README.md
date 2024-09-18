@@ -5,6 +5,9 @@ by Daniel Hu
 Python Version: 3.11.5
 pip install -r requirements.txt
 
+1. Install requirements
+2. Poison datasets
+3. Run the poisoned_datasets_prune.py
 
 
 
